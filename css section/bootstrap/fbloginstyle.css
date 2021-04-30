@@ -1,0 +1,77 @@
+body{
+    background-color:#ebe8e8;
+}
+
+
+.logo{
+    height:106px;
+    margin:-28px;
+}
+.content{
+    font-family:Arial;
+    font-weight:normal;
+    height:100px;
+    width:400px;
+    top:230px;
+}
+.container{
+    
+    background-color:white;
+    height:350px;
+    width:400px;
+    position:relative;
+    top:100px;
+    left:600px;
+    
+
+    
+}
+img{
+    position:absolute;
+    top:220px;
+    left:40px;
+}
+
+.username{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 14px;
+    height:50px;
+    width:364px;
+    padding: 6px
+  
+}
+.password{
+    margin-left: 10px;
+    margin-top: 25px;
+    height:50px;
+    width:364px;
+
+    font-size: 14px;
+    padding: 6px
+    ;
+}
+ 
+.mbutton{
+    background-color: #1877f2;
+    color:white;
+    margin-left: 35px;
+    margin-top: 35px;
+
+    font-size: 20px;
+    line-height:20px;
+    padding: 16px;
+    width: 332px;
+}
+.kbutton{
+    position:absolute;
+    left:90px;
+    top:280px;
+    background-color:rgb(32, 192, 32);
+    color:white;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height:20px;
+    padding: 16px;
+    

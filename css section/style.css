@@ -1,0 +1,28 @@
+body{
+    background-color:#fcd703 ;
+} 
+
+div{
+    border: 1px solid black;
+    color: coral;
+    width:25%;height: 400px;
+    float:left;
+
+}
+#angular{
+    background-color:#fc0303
+}
+.section2{
+    background-color:#03fc6b 
+}
+
+h1{
+    
+    color:brown;
+}
+
+h2{
+    
+    color:rgb(79, 42, 165);
+}
+

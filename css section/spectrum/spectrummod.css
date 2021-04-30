@@ -1,0 +1,50 @@
+body{
+    background-color:rgb(7, 0, 0);
+
+}
+
+h1{
+    color:white;
+    text-align:center;
+    font-family: 'Paprika', cursive;
+}
+.container{
+    
+    left:200px;
+    height:300px;
+    width:1100px;
+    background-color:hotpink;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.col{
+    width:200px;
+    height:200px;
+}   
+    
+.col-1{
+    background-color: #656665;
+    
+}
+.col-2{
+    background-color: #425743;
+    
+    
+}
+.col-3{
+    background-color:#459654;
+    
+    
+}
+.col-4{
+    background-color:#09bd33;
+   
+    
+}
+.col-5{
+    background-color:#d9deda;
+    
+}

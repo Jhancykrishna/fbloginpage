@@ -1,0 +1,30 @@
+div{
+    border:1px solid red;
+    width:50%;
+    font-size:20px;
+    font-weight:800;
+    text-decoration:underline;
+    text-decoration:overline;
+    text-decoration:line-through;
+    
+}
+#first{
+    position:relative;
+    left:250px;
+}
+#second{
+    position:relative;
+    left:250px;
+    top:200px;
+}
+#third{
+    position:relative;
+    left:250px;
+    top:500px;
+}
+#inn{
+    position:relative;
+    left:10%;  
+}
+
+

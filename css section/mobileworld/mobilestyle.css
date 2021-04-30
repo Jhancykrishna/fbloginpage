@@ -1,0 +1,50 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color:white;
+    text-align:center;
+}
+
+.row1{
+    left:500px;
+    width:fit-content;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.row2{
+    left:500px;
+    width:fit-content;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+
+
+
+.container{
+    left: 500px;
+    width:100%;
+    height:800px;
+    background-color:thistle;
+    display:flex;
+    justify-content:space-evenly;
+    
+
+}
+.col{
+    width:20%;
+    height:500px;
+    align-content: center;
+
+   
+    
+}
+/*img{
+    width:100%;
+    height:100%;
+}*/
+
+
